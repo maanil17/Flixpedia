@@ -56,7 +56,7 @@ const HeroBanner = () => {
 
         <div className="heroBannerContent">
           <span className="title">
-Flixpesdddddiaa</span>
+Flixpedia</span>
           <span className="subTitle">
 Discover endless movies, TV shows, and captivating people. Start exploring now.</span>
 
